@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkitetu
-- 👀 I’m interested in data science, fund and wealth management.
+- 👀 I’m interested in data science, front & back-end web development.
 - 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on projects majoring in data science in business development and or Fund and wealth management
+- 💞️ I’m looking to collaborate on projects majoring in data science and web applications development
 - 📫 How to reach me- @jamesmwendwa254@gmail.com/jkitetu254@gmail.com; +254792153295
 
 <!---
